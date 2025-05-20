@@ -1,0 +1,16 @@
+{
+    "blacklist": [
+        ""
+    ],
+    "entries": [
+        { "placeId": 3623096087, "version": "2.673.713",  "token": "4pt93wl-u61ayz8-d3vcu07-b2f9wkm3-x2q7zog-dma1jhf" },
+        { "placeId": 3623096087, "version": "2.673.710",  "token": "5l09xepq-dsy27bi-nz8wjqv-9f3kcme-qh67ujf2-xga5b1v" },
+        { "placeId": 3623096087, "version": "2.672.1708", "token": "mz50qdl-jx1zmuo6-fqru7299-p7cf64a5-3h8ejpzb-tm0li7n" },
+        { "placeId": 3623096087, "version": "2.672.706",  "token": "cfp30zm5-b9dyxw-hu6g2eq7v-vxq7lu-d80hzr13-kaqjcni" },
+        { "placeId": 3623096087, "version": "2.671.1822", "token": "iyf3zqsl-1d8wmoe-p3sj0ug-zcyh7xl-qtd9piu-r74b8em" },
+        { "placeId": 3623096087, "version": "2.671.818",  "token": "o1pxzq0d-hk6ybv-4x7a9u5e-n1jqevl-kft6zx3m-gca27y0" },
+        { "placeId": 3623096087, "version": "2.670.3717", "token": "9b6sjvqo-plw0za5u-4ydte1j-hmqwev-kj2ur1dz-o8lnmxz" },
+        { "placeId": 3623096087, "version": "2.670.1715", "token": "p7o23vyl-nufx8s3-93tkqzv-lr7c2e8a-d6yfzq1u-wv9h3ox" },
+        { "placeId": 3623096087, "version": "2.670.714",  "token": "x2opvngz-hcd7jfe-u8rpa0gk-ktv429b-57ejuyz-wb2l4mc" }
+    ]
+}
