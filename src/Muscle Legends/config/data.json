@@ -1,8 +1,12 @@
 {
-    "blacklist": [
-        ""
-    ],
-    "entries": [
-        { "placeId": 3623096087, "version": "0.01",  "token": "4pt93wl-u61ayz8-d3vcu07-b2f9wkm3-x2q7zog-dma1jhf" }
-    ]
+  "blacklist": [
+    "1"
+  ],
+  "entries": [
+    {
+      "placeId": 3623096087,
+      "version": "0.01",
+      "token": "4pt93wl-u61ayz8-d3vcu07-b2f9wkm3-x2q7zog-dma1jhf"
+    }
+  ]
 }
